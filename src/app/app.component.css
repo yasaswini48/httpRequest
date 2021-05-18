@@ -1,0 +1,16 @@
+.active
+{
+    font-weight: bold;
+    background-color:#FF8882;
+    border-radius: 5px;
+}
+h5
+{
+    color:#FF8882;
+    font-weight:350;
+    text-shadow: none;
+}
+.navbar-brand
+{
+    text-shadow: 2px 3px 3px #FF8882;
+}
