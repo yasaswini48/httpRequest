@@ -1,0 +1,21 @@
+<!-- Search Bar -->
+<form class="w-75 mx-auto form-floating mt-5">
+    <input type="text" name="Seacrh" id="search" class="form-control" placeholder="..." [(ngModel)]=searchedItem >
+    <label  for="search">Search by Brand Name</label>
+</form>
+
+<!-- display of mobiles -->
+<div class="container mt-5">
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
+        <div class="col" *ngFor="let mbObj of mobilesArr | search :searchedItem">
+            <div class="card mt-3 mb-4 bg-dark text-white" style="height: 480px;">
+                <img src={{mbObj.productImage}} height="300px" width="100%" alt="Not Found">
+                <div class="card-body ">
+                   <h3 class="text-center"> {{mbObj.productTitle}} </h3>
+                   <h6> {{mbObj.productData}} </h6>
+                   <button class="btn text-white btn-success d-block  mx-auto mt-3">Add to Cart</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

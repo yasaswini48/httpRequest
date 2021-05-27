@@ -1,0 +1,16 @@
+<!-- display data of all users id,email -->
+<div class="container">
+    <table class="table table-bordered table-hover text-center text-dark mt-5">
+        <thead>
+            <th>User Id</th>
+            <th>User Email</th>
+        </thead>
+        <tbody>
+            <tr *ngFor="let userObj of userArr">
+                <button class="btn btn-info" (click)="idNavigate(userObj.id)" > {{userObj.id}} </button>
+               <td> {{userObj.email}} </td>
+            </tr>
+        </tbody>
+    
+    </table>
+</div>

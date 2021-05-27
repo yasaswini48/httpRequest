@@ -1,0 +1,19 @@
+.nav-link
+{
+    margin-top: 15px;
+    color: white;
+    background-color: palevioletred;
+    border: none;
+    border-radius: 5px;
+    
+}
+.nav-link:focus
+{
+    background-color: #a560ff;
+    box-shadow: 3px 3px 0px gold;
+}
+.active
+{
+    background-color: #a560ff;
+    box-shadow: 3px 3px 0px gold;
+}

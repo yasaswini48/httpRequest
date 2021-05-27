@@ -1,0 +1,235 @@
+{
+        "users":
+        [
+            {
+            "id":"1",
+            "email":"adams@gmail.com",
+            "name":"Adam",
+            "profilePic":"https://i.pinimg.com/originals/32/38/6c/32386c72c7f2a8b5c1a10fc51c149cb1.jpg",
+            "address":
+            {
+              "city":"xyz",
+              "state":"Brazil"
+            },
+            "profession":"Car Driver",
+            "mobileno":"999999"
+            } ,
+            {
+            "id":"2",
+            "email":"rose@gmail.com",
+            "name":"Rose",
+            "profilePic":"https://i1.wp.com/thatrandomagency.com/wp-content/uploads/2020/05/Lauren_headshot.png?resize=640%2C873&ssl=1",
+            "address":
+            {
+              "city":"Steves",
+              "state":"Paris"
+            },
+            "profession":"Teacher",
+            "mobileno":"111111"
+            },
+            {
+              "id":"3",
+            "email":"jhon@gmail.com",
+            "name":"Jhon",
+            "profilePic":"https://pbs.twimg.com/media/BcINeMVCIAABeWd.jpg",
+            "address":
+            {
+              "city":"Cisko",
+              "state":"London"
+            },
+            "profession":"Student",
+            "mobileno":"0000000"
+            },
+            {
+              "id":"4",
+            "email":"Abraham@gmail.com",
+            "name":"Abraham",
+            "profilePic":"https://pm1.narvii.com/5866/45cc61eb9e3eaefdc26be045e9f9fbfdf916f45b_hq.jpg",
+            "address":
+            {
+              "city":"Skie",
+              "state":"Hawaii"
+            },
+            "profession":"Bank Assistant",
+            "mobileno":"8888888"
+            },
+            {
+            "id":"5",
+            "email":"Ravi@gmail.com",
+            "name":"Ravi",
+            "profilePic":"https://rukminim1.flixcart.com/image/332/398/k1pbpu80/shirt/h/g/v/l-fo-shrt-499-cmnt-5th-anfold-original-imafkhgxzg9dfmwk.jpeg?q=50",
+            "address":
+            {
+              "city":"Lucknow",
+              "state":"Punjab"
+            },
+            "profession":"Professor",
+            "mobileno":"00987"
+            },
+            {
+              "id":"6",
+              "email":"jasmine@gmail.com",
+              "name":"Jasmine",
+              "profilePic":"https://images.milledcdn.com/2016-03-07/7J19DqohLV0AEjkl/kY37q8X1aj_D.jpg",
+              "address":
+              {
+                "city":"Lorem",
+                "state":"Epsoln"
+              },
+              "profession":"Sales Manager",
+              "mobileno":"88888890"
+              },
+              {
+                "id":"7",
+                "email":"MaryKom@gmail.com",
+                "name":"MC Mary Kom",
+                "profilePic":"https://c.ndtvimg.com/2020-04/mogp7as_mary-kom-afp_625x300_27_April_20.jpg",
+                "address":
+                {
+                  "city":"Assam",
+                  "state":"India"
+                },
+                "profession":"Boxer",
+                "mobileno":"000000"
+                },
+                {
+                  "id":"8",
+                  "email":"Bobby@gmail.com",
+                  "name":"Bobby",
+                  "profilePic":"https://cdn.makeupandbeauty.com/wp-content/uploads/2012/03/interviewportfolio.jpg",
+                  "address":
+                  {
+                    "city":"Shillong",
+                    "state":"Mhegalaya"
+                  },
+                  "profession":"Assistant Professor",
+                  "mobileno":"1111111"
+                  },
+                  {
+                    "id":"9",
+                    "email":"Loresm@gmail.com",
+                    "name":"Loresm",
+                    "profilePic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_j-zNeKkld-0-TwRELIlA2S6kcHZKwE24jA&usqp=CAU",
+                    "address":
+                    {
+                      "city":"Vizag",
+                      "state":"Andhra Pradesh"
+                    },
+                    "profession":"Banker",
+                    "mobileno":"0000"
+                    },
+                    {
+                      "id":"10",
+                      "email":"Puja@gmail.com",
+                      "name":"Puja",
+                      "profilePic":"https://cdn.shopify.com/s/files/1/0042/3981/8822/files/what-should-women-wear-to-med-school-interview_bd2a4b8a-f147-4256-a93c-af17ad60b61e_large.jpg?v=1576706878",
+                      "address":
+                      {
+                        "city":"Bhopal",
+                        "state":"Madhya Pradesh"
+                      },
+                      "profession":"Bussiness Women",
+                      "mobileno":"12345"
+                      }
+        ],
+        "mobiles":
+          [
+            {
+               "productTitle":"Realme narzo",
+               "productData":"Realme narzo 30 Pro (Blade Sliver, 8GB RAM, 128GB Storage)No cost/EMI",
+               "productImage":"https://images-na.ssl-images-amazon.com/images/I/81YPGNaaNiS._AC_SL1500_.jpg"
+            },
+            {
+               "productTitle":"OnePlus 9 Pro",
+               "productData":"OnePlus 9 Pro 5G (Morning Mist, 12GB RAM, 256GB Storage)No cost/EMI",
+               "productImage":"https://images-na.ssl-images-amazon.com/images/I/61LvUvbZGlL._AC_SL1500_.jpg"
+            },
+            {
+               "productTitle":"OPPO F19 Pro",
+               "productData":"OPPO F19 Pro (Crystal Silver, 8GB RAM, 128GB Storage)No cost/EMI",
+               "productImage":"https://images-na.ssl-images-amazon.com/images/I/71KlQWpei4L._AC_SL1500_.jpg"
+            },
+            {
+               "productTitle":"Samsung A72",
+               "productData":"Samsung Galaxy A72 (Violet, 8GB RAM, 128GB Storage)No cost/EMI",
+               "productImage":"https://images-na.ssl-images-amazon.com/images/I/81nEqE5WMuL._AC_SL1500_.jpg"
+            },
+            {
+               "productTitle":"Samsung S21",
+               "productData":"Samsung Galaxy S21 Plus 5G (Phantom Violet, 8GB RAM No cost/EMI",
+               "productImage":"https://images-na.ssl-images-amazon.com/images/I/91QuYeAEXVL._AC_SL1500_.jpg"
+            },
+            {
+               "productTitle":"Vivo V20 Pro",
+               "productData":"Vivo V20 Pro 5G Sunset Melody, 8GB RAM No cost/EMI Exciting Offer",
+               "productImage":"https://images-na.ssl-images-amazon.com/images/I/71HLaYtc%2BJL._AC_SL1200_.jpg"
+            },
+            {
+               "productTitle":"OnePlus Nord",
+               "productData":"OnePlus Nord 5G (Blue Marble, 12GB RAM, 256GB Storage)No cost/EMI",
+               "productImage":"https://images-na.ssl-images-amazon.com/images/I/71Lx9l3NivL._AC_SL1500_.jpg"
+            }
+         ],
+        "books":
+        [
+          {
+             "productTitle":"The Magic of the Lost Temple",
+             "productData":"Ready to explore the depths of the magic hidden in the lost temple of Karnataka?",
+             "productImage":"https://www.bookgeeks.in/wp-content/uploads/2018/07/The-Magic-of-the-Lost-Temple-by-Sudha-Murthy.webp"
+          },
+          {
+             "productTitle":"Grandma's Bag of Stories",
+             "productData":"Collection of 20+ Illustrated stories,traditional Indian folk tales for all ages",
+             "productImage":"https://images-na.ssl-images-amazon.com/images/I/51NHKZC1a0L._SX324_BO1,204,203,200_.jpg"
+          },
+          {
+             "productTitle":"The Gopi Diaries: Coming Home",
+             "productData":"Told in Gopi's voice,the first book,begins with Gopi going to his new home",
+             "productImage":"https://www.bookgeeks.in/wp-content/uploads/2018/07/The-Gopi-Diaries-by-Sudha-Murty.jpg"
+          },
+          {
+             "productTitle":"How the Onion Got Its Layers",
+             "productData":"Onion has so many layers? And have you seen your mother's eyes water",
+             "productImage":"https://www.bookgeeks.in/wp-content/uploads/2018/07/How-the-Onion-Got-Its-Layers-by-Sudha-Murthy.jpg"
+          },
+          {
+             "productTitle":"The Serpent's Revenge",
+             "productData":"How many names does Arjuna have?Why was Yama cursed?",
+             "productImage":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk9tR_qmN8Vb9BmFU1D45iCLTYtDDC-T8CKQ&usqp=CAU"
+          },
+          {
+             "productTitle":"Gopi Dairies: Finding Love",
+             "productData":"'Gopi. You have brought me so much happiness!'",
+             "productImage":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1612540899l/56645181.jpg"
+          }
+        ],
+        "tvs":
+        [
+          {
+             "productTitle":"OnePlus TV",
+             "productData":"OnePlus 80 cm (32 inches) LED Smart Android TV 32Y1 (Black) (2020 Model)",
+             "productImage":"https://images-na.ssl-images-amazon.com/images/I/81qtALn%2BGpL._AC_SL1500_.jpg"
+          },
+          {
+             "productTitle":"eAirtec TV",
+             "productData":"eAirtec 61 cms (24 inches) HD Ready LED TV 24DJ (Black) (2020 Model)",
+             "productImage":"https://images-na.ssl-images-amazon.com/images/I/71FutyZQeXL._AC_SL1500_.jpg"
+          },
+          {
+             "productTitle":"Xiamio TV",
+             "productData":"Mi 80 cm (32 inches) Horizon Edition Android Smart LED TV 4A|L32M6-EI (Grey)",
+             "productImage":"https://images-na.ssl-images-amazon.com/images/I/71A45JDbuxL._AC_SL1500_.jpg"
+          },
+          {
+             "productTitle":"TCL TV",
+             "productData":"TCL 100 cm (40 inches) Full HD Android Smart LED TV (Black) (2020 Model)",
+             "productImage":"https://images-na.ssl-images-amazon.com/images/I/612w-lzGffL._AC_SL1500_.jpg"
+          },
+          {
+             "productTitle":"",
+             "productData":"iFFALCON 108 cm (43 inches) Android LED TV 43K71 (Sliver) (2021 Model)",
+             "productImage":"https://images-na.ssl-images-amazon.com/images/I/71d12CjE8iS._AC_SL1500_.jpg"
+          }
+        ] 
+    }
+    

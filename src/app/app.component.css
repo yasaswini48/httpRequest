@@ -1,0 +1,15 @@
+.active
+{
+    background-color:#ff9789;
+    border: none;
+    border-radius: 4px;
+    font-weight: bold;
+}
+.nav-item
+{
+    font-size: 20px;
+}
+.navbar-brand
+{
+    font-size: 28px;
+}

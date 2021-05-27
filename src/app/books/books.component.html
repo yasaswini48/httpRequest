@@ -1,0 +1,20 @@
+<!-- input feild -->
+<div class="form-floating mx-auto w-75 mt-4">
+    <input type="text" name="searchBook" class="form-control" placeholder="Search By Book Title.." [(ngModel)]=booksearched>
+</div>
+
+<!-- display books data -->
+<div class="container">
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
+        <div class="col " *ngFor="let bookObj of booksArr | search :booksearched ">
+            <div class="card bg-dark text-white mt-5" >
+                <img src={{bookObj.productImage}} height="400px" width="100%" alt="Not Found">
+                <div class="card-body">
+                     <h3> {{bookObj.productTitle}}  </h3>
+                     <h6> {{bookObj.productData}} </h6>
+                     <button class="btn d-block mx-auto text-white">Add to Cart</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

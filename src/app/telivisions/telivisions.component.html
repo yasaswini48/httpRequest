@@ -1,0 +1,21 @@
+<!-- search for tv -->
+<div class="form-floating mt-4 mx-auto w-75">
+    <input type="text" class="form-control" placeholder=".." id="tv"  [(ngModel)]=searchedTv>
+    <label for="tv">Search tv By Brand</label>
+</div>
+
+<!-- display books data -->
+<div class="container">
+    <div class="row  row-cols-md-1 row-cols-lg-2">
+        <div class="col " *ngFor="let tvObj of tvsArr | tvSearch:searchedTv">
+            <div class="card bg-dark text-white mt-5" >
+                <img src={{tvObj.productImage}} height="400px" width="100%" alt="Not Found">
+                <div class="card-body">
+                     <h3> {{tvObj.productTitle}}  </h3>
+                     <h6> {{tvObj.productData}} </h6>
+                     <button class="btn d-block mx-auto text-white">Add to Cart</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
